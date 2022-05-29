@@ -2,7 +2,7 @@
 
 Nice to meet you! My name is Martin Yeo and I live in Exeter, UK.
 
-[![Martin out of his element](martin_canoeing.jpg)](martin_canoeing.jpg){: width="320px"}
+[<img alt="Martin out of his element" height="320" src="martin_canoeing.jpg" width="320"/>](martin_canoeing.jpg)
 
 #### What wakes you up in the morning?
 

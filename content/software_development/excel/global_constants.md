@@ -8,7 +8,7 @@ single userform...**
 Do you ever maintain a workbook that contains a number of dynamic reports, each
 with a variety of settings?
 
-![](_static/Global_Constants_3.png)
+![_](_static/Global_Constants_3.png)
 
 Consider holding all settings on a dedicated tab, changed via a VBA userform.
 
@@ -22,7 +22,7 @@ Consider holding all settings on a dedicated tab, changed via a VBA userform.
 * The settings are simpler to work with and add to when they are all in one
   place
 
-![](_static/Global_Constants_4.png)
+![_](_static/Global_Constants_4.png)
 
 Since all formulae will now be referring to another worksheet, an important
 consideration is to keep the name of that worksheet as short as possible (e.g.

@@ -17,7 +17,7 @@ assess, these statements will become much larger and more difficult to maintain.
 It is much better to make use of a table against which grades can be looked up.
 Here is an example:
 
-![](_static/Scoring_Table_2.png)
+![_](_static/Scoring_Table_2.png)
 
 This table has 6 grades - `E` to `A*` - and thresholds for 3 stats that must all
 be reached before the relevant grade is achieved. We now need a formula that
