@@ -12,6 +12,6 @@ Once you try it, it will be your favourite sport too!
 
 ## [Science](content/science)
 
-My field of education, and a continuing interest.
+How I got started in life.
 
 ## [Why `trexfeathers`?](content/trexfeathers)
