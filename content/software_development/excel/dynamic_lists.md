@@ -20,14 +20,14 @@ restructuring increases the process can become very time consuming.
 Here I will demonstrate how report structure can be automated from a master
 structure list. Here a master list:
 
-![_](_static/Dynamic_Lists_4.png)
+![](_static/Dynamic_Lists_4.png)
 
 This list is necessarily pure and simple - it may be used in a number of
 different ways (it may be the source for a genus selection list, or referenced
 in a macro), and so cannot include spaces for subtotals. Here the style of
 report we wish to create using the master list:
 
-![_](_static/Dynamic_Lists_3.png)
+![](_static/Dynamic_Lists_3.png)
 
 To automatically draw up a list that can include subtotals we begin with an
 array formula that is used to pull unique values from lists. Cell `E5` is simply
