@@ -11,7 +11,7 @@ programming for work and also occasionally at home.
 
 #### What do you do for fun?
 
-My main hobbies are [orienteering](../orienteering), running and tap dancing. I
+My main hobbies are [orienteering](orienteering), running and tap dancing. I
 also enjoy gaming - video games, board games and DnD. I've been making my own
 pizzas for many years.
 

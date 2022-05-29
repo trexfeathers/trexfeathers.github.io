@@ -7,7 +7,7 @@ immersed in the discipline and had the opportunity to assist on a number of
 projects, and this allowed me to see early on that a career outside academic
 science would see me more fulfilled.
 
-### [Academic work]()
+### [Academic work](academic_work.md)
 
 Projects from my further and higher education.
 

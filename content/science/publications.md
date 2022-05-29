@@ -20,7 +20,7 @@ in flies._ J Evol Biol _**24**, 1351-1362._
 
 ---
 
-_Sharma MD. 2010. Sexual selection in _Drosophila simulans_. PhD Thesis. UK:
+_Sharma MD. 2010. Sexual selection in_ Drosophila simulans. _PhD Thesis. UK:
 University of Exeter._
 
 * The majority of my lab volunteering was spent helping with this thesis. Tasks

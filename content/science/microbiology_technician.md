@@ -1,3 +1,5 @@
+## Microbiology Technician at 2 Sisters Food Group
+
 In September 2011, I started work at the 2 Sisters microbiology lab in
 Nottingham. This built on my previous experience as a lab technician - a role I
 enjoyed and was good at. The first couple of months were spent learning the
