@@ -2,7 +2,9 @@
 
 Nice to meet you! My name is Martin Yeo and I live in Exeter, UK.
 
-#### What makes you tick?
+![Martin out of his element](martin_canoeing.jpg){: .center-image }
+
+#### What wakes you up in the morning?
 
 I'm hoping I can give back to the world as much as it has given me; that's why
 I'm working in climate science, and why a lot of my spare time is spent
