@@ -3,7 +3,7 @@
 Nice to meet you! My name is Martin Yeo and I live in Exeter, UK.
 
 {: .center}
-[![Martin out of his element](martin_canoeing.jpg)](martin_canoeing.jpg){:width="320px"}
+[![Martin out of his element](martin_canoeing.jpg)](martin_canoeing.jpg){: width="320px"}
 
 #### What wakes you up in the morning?
 
