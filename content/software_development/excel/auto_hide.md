@@ -62,7 +62,7 @@ Perhaps some rows are only appropriate when viewing certain months, for
 instance. In this situation we would use a worksheet-change macro to call row &
 column hiding whenever a new month is selected.
 
-[Click here](_static/Row_Column_Hide.xlsm) to download a working example where certain rows and 
+[Click here](static/Row_Column_Hide.xlsm) to download a working example where certain rows and 
 columns are only visible if the Genus _Compsognathus_ is selected on the 
 worksheet. Macros must be enabled for this example to function. Below is the 
 code in full:

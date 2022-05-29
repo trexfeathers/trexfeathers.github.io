@@ -17,7 +17,7 @@ assess, these statements will become much larger and more difficult to maintain.
 It is much better to make use of a table against which grades can be looked up.
 Here is an example:
 
-![](_static/Scoring_Table_2.png)
+![](static/Scoring_Table_2.png)
 
 This table has 6 grades - `E` to `A*` - and thresholds for 3 stats that must all
 be reached before the relevant grade is achieved. We now need a formula that
@@ -60,4 +60,4 @@ otherwise `MIN()` will return a `0`). Here is an example of the full formula:
 =INDEX('Scoring Table'!$A$2:$A$7,SUMPRODUCT(MAX(--($D$7>;='Scoring Table'!$B$2:$B$7)*--($D$8>;='Scoring Table'!$C$2:$C$7)*--($D$9>;='Scoring Table'!$D$2:$D$7)*ROW('Scoring Table'!$A$2:$A$7))))
 ```
 
-[Click here](_static/Scoring_Table.xlsx) to see this method in action.
+[Click here](static/Scoring_Table.xlsx) to see this method in action.
