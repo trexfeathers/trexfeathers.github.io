@@ -1,4 +1,4 @@
-## SQL: stored procedure downstream processing
+## SQL: Stored Procedure Downstream Processing
 
 A limitation of SQL stored procedures is the awkwardness of doing any more SQL
 work with the results. There's an excellent summary of the possible methods

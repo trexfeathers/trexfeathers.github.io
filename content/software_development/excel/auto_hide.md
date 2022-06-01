@@ -1,4 +1,4 @@
-## Excel: auto row & column hiding
+## Excel: Auto row & column hiding
 
 **Automatically hide rows and columns throughout a workbook in an instant...**
 

@@ -1,4 +1,4 @@
-## Excel: dynamic lists
+## Excel: Dynamic Lists
 
 **Automatically convert a hierarchical structure into a list with spacing and
 rows for subtotals...**

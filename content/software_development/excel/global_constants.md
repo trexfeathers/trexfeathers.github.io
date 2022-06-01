@@ -1,4 +1,4 @@
-## Excel: global constants
+## Excel: Global Constants
 
 **Improve simplicity by consolidating all a workbook's dynamic settings into a
 single userform...**

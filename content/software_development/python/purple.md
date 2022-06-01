@@ -1,3 +1,3 @@
-## Cracking a video game through brute force
+## Python: Cracking a video game through brute force
 
 🚧 Coming soon! 🚧

@@ -1,4 +1,4 @@
-## Excel: advanced scoring
+## Excel: Advanced Scoring
 
 **Run numbers through a complex grading system without resorting to enormous
 nested `IF()` statements...**
