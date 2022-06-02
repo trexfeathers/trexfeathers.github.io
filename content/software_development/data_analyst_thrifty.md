@@ -8,12 +8,16 @@ fleet, and were used for generating several routine reports, answering daily
 adhoc questions and also empowering other colleagues to perform their own adhoc
 investigations
 
+#### Making best use of the available tools
+
 While PowerPivot was being used, there had been little effort to explore its
 full potential. I made a point to get up to speed with this technology as
 quickly as possible, and was soon able to offer up pivot-able measures that were
 previously only available through manual preparation. This greatly enhanced the
 reactiveness of the department by expanding the ‘self-serve’ analysis that could
 be performed without needing to involve the analytics team
+
+#### More robust, flexible solutions
 
 Almost every file that was in regular use had originated from a one-off report
 request, but with no further resource investment, often leaving the file needing
@@ -22,6 +26,8 @@ my previous job, and having recognised this repeat pattern I insisted wherever
 possible that we take extra time to create flexible solutions, which would be
 able to serve both the initial report requirement and also answer subsequent
 questions/requirements
+
+#### Trend analysis
 
 For several of our routine reports, the team was tasked with analysing potential
 causes for any observed trends. This was done by looking for other correlated
@@ -38,6 +44,8 @@ to help people
 avoid [Simpson’s Paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox) for
 example)
 
+#### Improving data pipelines
+
 As with many growing companies, one of the struggles with reporting was that
 several of the systems in use were third party and it could be difficult to get
 access to the data. For rich analysis we needed to be able to link data from
@@ -53,10 +61,14 @@ which it is still a core part today
 
 ---
 
+#### New role
+
 The close work with the IT department throughout this gave me the chance to
 transfer into IT's data team mid-2017. This job entailed managing a much wider
 range of reports around the business, as well as looking after data integration
 and data warehousing between the myriad of systems in use
+
+#### Expanding my skill-set
 
 Apart from the manager we had minimal previous experience in our team of 4 so it
 was important to focus on up-skilling as quickly as possible. Knowing I learn
@@ -67,10 +79,14 @@ understand, very soon started to ease pressure on the manager allowing them to
 take a step back from the technical side of things and oversee the team as a
 whole
 
+#### Team up-skilling
+
 For any concepts that weren't known to the whole team, I took time away from my
 own tasks to work in parallel with my colleagues and pass on the knowledge. The
 stronger the team's knowledge-base, the more flexible we were able to be with
 sharing tasks between us, giving us a faster turnaround on user requests
+
+#### Project delivery beyond expectations
 
 A few months after the team formed, we were tasked with putting together a suite
 of reports for an external customer. The specification was challenging and the
@@ -80,6 +96,8 @@ good instinct for aesthetics, and through persistence were able to make our
 designs a reality despite the limitations of SSRS. The wider IT department were
 impressed with both the visual quality and fast development of these reports,
 which were of a quality they had not seen before
+
+#### The importance of making maintenance simple
 
 A big obstacle for any team, but especially an inexperienced one, is making sure
 each member can pick up another's work - it would be just too time inefficient
@@ -94,6 +112,8 @@ modify all repetitions, so it is much safer to abstract this code using
 subqueries/temp tables/`CROSS APPLY`. And if there is still a chance of a lack
 of clarity, it is incredibly important to comment code and document the wider
 process
+
+#### Training myself and others on a first-line support system
 
 During a restructure our team took on first line support for reporting and data
 integration, which meant learning the company's user ticketing system. I was
