@@ -41,3 +41,9 @@ limits, outside scrutiny or other pressures.
 
 I like to look at the **big picture**. What's most important for delivering a
 goal? What's routines and structures will deliver the best results?
+
+I enjoy revisiting existing solutions and ways of working and **enhancing** them
+using the
+**latest knowledge and technology**. This has often been useful in my career
+when teamed with others who are more focussed on creating new things - we make a
+good combination.

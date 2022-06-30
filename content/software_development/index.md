@@ -1,20 +1,11 @@
 ## Software Development
 
 I'm a self-taught programmer, having started with simple VBA enhancements in 
-MS Office. Software is now my full time vocation; I have so far worked 
+MS Office. Software is now my career; I have so far worked 
 full-time in three very different languages: DAX, SQL, and most recently Python.
 
-I'm particularly impressed with the pragmatism around Python - the priority is
-ease of understanding, and this has grown an enormous community of contributors.
-This powerful community has produced libraries which enable writing in Python 
-while passing execution to more difficult language(s) where better performance 
-is available (e.g. [NumPy](https://numpy.org/) calling C). The best of both 
-worlds!
-
-SQL has given me a useful grounding for scientific Python:
-[Pandas](https://pandas.pydata.org/) is heavily inspired by SQL, while the
-execution plans in [Dask](https://dask.org/) have parallels with SQL's query
-planning.
+I'm a big believer in open source software - [you can check out a lot of my work
+on GitHub](https://github.com/trexfeathers).
 
 Below you can read more about my professional experiences, personal projects,
 or even check out my CV.

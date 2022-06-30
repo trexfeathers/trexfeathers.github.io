@@ -1,4 +1,8 @@
-**Welcome!** Read on if you want to learn more about Martin Yeo 🙂
+## Welcome!
+
+This site is a mix of extended CV and sharing interesting things in my life.
+
+Read on if you want to learn more about Martin Yeo 🙂
 
 ## [About Martin](content/about_martin.md)
 
