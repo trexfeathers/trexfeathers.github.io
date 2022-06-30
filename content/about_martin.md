@@ -21,6 +21,6 @@ pizzas for many years.
 
 Science and engineering always draw my eye; specifically paleontology, space
 exploration and vehicles of all kinds. I like to hear people's ideas for
-improving the world - fields like sustainability, anti-poverty and effective
-altruism. Motorsport is a good engineering fix for me especially recently as the
-focus has been on sustainable technologies (e.g. LMP1 Hybrid).
+improving the world - fields like [sustainability](sustainability), anti-poverty
+and effective altruism. Motorsport is a good engineering fix for me especially
+recently as the focus has been on sustainable technologies (e.g. LMP1 Hybrid).

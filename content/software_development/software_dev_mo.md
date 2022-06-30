@@ -33,8 +33,6 @@ share many patterns and anti-patterns about fostering trust in one's user-base.
 
 #### Engaging the user community
 
-🚧 Different support media, virtuous cycle of user-dev collaboration
-
 I quickly became the team's main advocate for user engagement. User support 
 was often seen as a chore, to be cleared as quickly as possible before returning
 to development work (a cliché in software development). I pushed for a more 
@@ -134,8 +132,6 @@ well as catching various changes in performance we would otherwise have missed.
 
 #### Part of an international community
 
-🚧 Open source, conferences, competing packages
-
 Working in open source introduced me an exciting community. Often multiple teams
 around the world will be trying different solutions to the same problem; users
 are free to pick the best tool from those available, and development teams can
@@ -143,9 +139,9 @@ collaborate to provide solutions that they couldn't individually. The best
 packages in this ecosystem are as interoperable with other packages as possible,
 and are written as 'thin wrappers' that serve as specialised uses of other '
 lower' packages. Attending conferences revealed a clear trade-off between fully
-open source projects - enormous development teams that are harder to coordinate
-- and projects driven mainly by single institutions - better planned/directed
-development, but slower too.
+open source projects - enormous development teams that are harder to
+coordinate - and projects driven mainly by single institutions - better 
+planned/directed development, but slower too.
 
 #### Python's unique strengths
 

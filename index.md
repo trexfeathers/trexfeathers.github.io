@@ -18,4 +18,6 @@ Once you try it, it will be your favourite sport too!
 
 How I got started in life.
 
+## [Sustainability](content/sustainability)
+
 ## [Why `trexfeathers`?](content/trexfeathers)
