@@ -7,7 +7,7 @@ to check out:
 * [2 minute video of some elite orienteering](https://www.youtube.com/watch?v=Q_yitYOdK0M)
 * [Better Orienteering](https://betterorienteering.org/) - a perfectionist's 
   dream
-* [My Orienteering Results](https://www.britishorienteering.org.uk/index.php?pg=results&member=158713)
+* [My orienteering results](https://www.britishorienteering.org.uk/index.php?pg=results&member=158713)
 * [Devon Orienteering Club](https://www.devonorienteering.co.uk/) - the club 
   I run with
 * Some documents I've written for Devon Orienteering, giving you an insight 
