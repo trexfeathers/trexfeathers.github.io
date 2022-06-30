@@ -15,7 +15,7 @@ The trouble with this level of complexity is the re-building that is required
 whenever the structure changes. If you are maintaining a small number of reports
 and/or the structure does not change regularly then rebuilding each report may
 not be an issue. However, as the number of reports or the frequency of
-restructuring increases the process can become very time consuming.
+restructuring increases the process can become very time-consuming.
 
 Here I will demonstrate how report structure can be automated from a master
 structure list. Here a master list:

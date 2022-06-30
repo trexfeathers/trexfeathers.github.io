@@ -1,4 +1,4 @@
-## About Martin
+## 👋 About Martin
 
 Nice to meet you! My name is Martin Yeo and I live in Exeter, UK.
 

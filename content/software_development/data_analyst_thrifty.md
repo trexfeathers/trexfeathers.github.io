@@ -37,7 +37,7 @@ I created a VBA script to show all possible correlations. But as we did more of
 this analysis it became clear that managers within the department often already
 knew an explanation it took us hours to work out. The right thing to do was to
 stop focussing on our own analysis but instead put more effort into helping
-augment the work begin done by experts within each team. This meant creating
+augment the work being done by experts within each team. This meant creating
 more flexible data models that could be pivoted in many different ways depending
 on the investigation, and helping others with interpreting data (I often needed
 to help people
@@ -51,7 +51,7 @@ several of the systems in use were third party and it could be difficult to get
 access to the data. For rich analysis we needed to be able to link data from
 different systems together via SQL queries against the data warehouse, but for
 one of the key systems data was only updated overnight, limiting the insight one
-could gain from it. Arranging more frequent data feeds with the the third party
+could gain from it. Arranging more frequent data feeds with the third party
 would have been expensive and also inflexible if our needs changed. But the
 system did come with a proprietary querying framework, and it was down to me to
 learn my way around and set up the necessary queries that allowed hourly updates

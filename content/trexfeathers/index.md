@@ -1,4 +1,4 @@
-## Why `trexfeathers`?
+## 🦖 Why `trexfeathers`?
 
 I originally wrote a website as a university project on the communication of
 science. I wrote about the evolution of feathers, and how the evidence is rather

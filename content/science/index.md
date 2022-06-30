@@ -1,4 +1,4 @@
-## Science
+## 🔬 Science
 
 My further and higher education were 100% focussed on science; my highest
 qualification is a BSc in Evolutionary Biology from the University of Exeter.

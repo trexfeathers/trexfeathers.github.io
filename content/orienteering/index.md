@@ -1,4 +1,4 @@
-## Orienteering
+## 🗺️ Orienteering
 
 🚧 There's plenty more to write here, but for now here are some links for you 
 to check out:

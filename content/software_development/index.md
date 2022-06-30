@@ -1,4 +1,4 @@
-## Software Development
+## 🖥️ Software Development
 
 I'm a self-taught programmer, having started with simple VBA enhancements in 
 MS Office. Software is now my career; I have so far worked 

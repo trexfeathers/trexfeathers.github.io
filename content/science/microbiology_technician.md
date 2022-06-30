@@ -92,7 +92,7 @@ smooth handover. The extra knowledge gained while I was managing equipment
 allows me to work better as a technician and to help others understand equipment
 and fix minor problems.
 
-#### Customer liason
+#### Customer liaison
 
 Over 2013 and early 2014 I became involved in reporting the results of our
 testing to our customers. Accuracy is obviously of paramount importance in this

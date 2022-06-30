@@ -2,7 +2,7 @@
 
 Here are some summaries and downloads of the best work from my education.
 
-### Higher Eductation (University of Exeter)
+### Higher Education (University of Exeter)
 
 Unfortunately, due plagiarism rules, I am not allowed to publish my university
 work online. Here I have posted the abstracts/summaries. But if you are

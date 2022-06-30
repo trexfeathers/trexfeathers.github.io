@@ -1,4 +1,4 @@
-## Sustainability
+## 🌍 Sustainability
 
 A long-running interest of mine.
 
