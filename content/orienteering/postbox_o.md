@@ -2,6 +2,8 @@
 
 _**Currently in the experimental phase**_
 
+### The format
+
 A standard Queensland score:
 
 - 60 minute time limit.
@@ -9,14 +11,22 @@ A standard Queensland score:
 - `-10` point penalty for each minute you are late (`60:01` counts as a minute 
 late).
 
-The twist?
+### The twist
 
 - **The area is way too big!** All the postboxes in Exeter.
-- **You can start anywhere!**
+- **You can start anywhere!** Start-choice adds a new layer above 
+control-choice and route-choice.
 
-Read on for how it works...
+### Ideas
 
-### Choose your controls
+- Strive for the highest score, trying different start locations / routes 
+each time.
+- Spice up your routine exercise with a new start location each week.
+- Pick an interesting start location / map section and challenge your friends.
+
+### How it works
+
+#### Choose your controls
 
 [Browse this Google map](https://www.google.com/maps/d/u/0/edit?mid=1o_MRT5VB6queC7_-ofB_Fu3auhyqdfM&usp=sharing)
 to choose an area you'd like to navigate round for 60 minutes.
@@ -26,8 +36,10 @@ Things to consider:
 - **You must finish at the same control as you started at.**
 - Look out for locations that have multiple postboxes. They are separate on 
 the map, if you look closely, and each one is worth `20` points.
+- These are the sites that will score, even if postboxes are added/removed 
+in future. Hopefully a rare occurrence!
 
-### Create your map
+#### Create your map
 
 1. [Visit OpenOrienteeringMap UK](https://oomap.co.uk/gb/#/new/streeto/13/-3.5367/50.7212/).
 2. Select the centre point for your printed map by clicking a point on the 
@@ -44,7 +56,7 @@ populated with all the postbox sites within its boundaries.
 7. Click `Save & get PDF map` in the top-right.
 8. Print the PDF.
 
-### Set up MapRun
+#### Set up MapRun
 
 _# TODO: use [MapRunLink](https://maprunners.weebly.com/maprunlink.html)_
 
@@ -55,7 +67,7 @@ _# TODO: use [MapRunLink](https://maprunners.weebly.com/maprunlink.html)_
 5. Select `Options and Settings`, then activate `Start Anywhere (SAW)`, then 
 come back out of the settings menu.
 
-### Start your run
+#### Start your run
 
 1. Select `Go to Start`.
 2. When you first open the map, the Start/Finish location you see is irrelevant.
