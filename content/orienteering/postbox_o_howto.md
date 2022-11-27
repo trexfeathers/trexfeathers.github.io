@@ -32,7 +32,7 @@ orienteer could enjoy this single course many times before getting bored.
 
 Of course, there are likely to be only a few start 
 locations that will yield high scores, but that's only one of the ways to 
-enjoy such a course (see the [Ideas](postbox_o.md#Ideas) on the main page).
+enjoy such a course (see the [Ideas](postbox_o.md#ideas) on the main page).
 
 ### Positioning controls
 
