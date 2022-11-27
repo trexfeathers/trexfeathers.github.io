@@ -82,7 +82,7 @@ need to be numbered using a `<name>` element, and that isn't present.
 So I used [the script below](#kml-creation-script) to extract what I needed
 from an Overpass query output, and place it in a correctly formatted KML file,
 including `S1` and `F1` controls (positioned according to 
-[the Start Anywhere notes](https://maprunners.weebly.com/start-anywhere.html)):
+[the Start Anywhere notes](https://maprunners.weebly.com/start-anywhere.html)).
 
 Then it was a case of following the [MapRun course creation
 guidelines](https://maprunners.weebly.com/step-by-step-guide.html), uploading
