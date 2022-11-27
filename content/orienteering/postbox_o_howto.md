@@ -86,7 +86,7 @@ controls (positioned according to
 
 <details>
 <summary>Expand for Python script</summary>
-
+<pre>
 
 ```python
 from copy import deepcopy
@@ -142,9 +142,10 @@ for new_name, position in [("F1", len(output_content)), ("S1", 0)]:
 ElementTree.ElementTree(output_kml).write(f"postboxes_in_{relation_id}.kml")
 
 ```
+</pre>
 
 </details>
-
+<br/>
 
 Then it was a case of following the [MapRun course creation
 guidelines](https://maprunners.weebly.com/step-by-step-guide.html), uploading
