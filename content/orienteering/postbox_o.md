@@ -1,4 +1,4 @@
-## Postbox orienteering
+## Across-Devon postbox orienteering
 
 _**Currently in the experimental phase**_
 
@@ -52,10 +52,13 @@ displayed map.
    3. Clicking elsewhere on the map with deactivate this mode (point goes blue).
 5. Click the `Postboxes` button in the top menu. Your map should now be 
 populated with all the postbox sites within its boundaries.
-6. OPTIONAL: Edit the details in the 'control description' section on the right
+6. Check the controls against [the original map](https://overpass-turbo.eu/s/1ogb),
+as there can be extras/duplicates in OpenOrienteeringMap. Duplicates can be 
+deleted in the 'control description' section on the right.
+7. OPTIONAL: Edit the details in the 'control description' section on the right
 (the auto-generated scores have no significance).
-7. Click `Save & get PDF map` in the top-right.
-8. Print the PDF.
+8. Click `Save & get PDF map` in the top-right.
+9. Print the PDF.
 
 #### Set up MapRun
 
@@ -76,3 +79,5 @@ come back out of the settings menu.
 4. The time starts once the first control is punched.
 5. **Remember that you must also finish at your first control.**
 6. Enjoy!
+
+### [How to create your own version](postbox_o_howto.md)
