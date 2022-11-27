@@ -13,14 +13,14 @@ late).
 
 ### The twist
 
-- **The area is way too big!** All the postboxes in Exeter.
+- **The area is way too big!** All the postboxes in Devon.
 - **You can start anywhere!** Start-choice adds a new layer above 
 control-choice and route-choice.
 
 ### Ideas
 
-- Strive for the highest score, trying different start locations / routes 
-each time.
+- Strive for the highest score (against others or yourself), trying different 
+  start locations / routes each time.
 - Spice up your routine exercise with a new start location each week.
 - Pick an interesting start location / map section and challenge your friends.
 
@@ -28,7 +28,7 @@ each time.
 
 #### Choose your controls
 
-[Browse this Google map](https://www.google.com/maps/d/u/0/edit?mid=1o_MRT5VB6queC7_-ofB_Fu3auhyqdfM&usp=sharing)
+[Browse this map](https://overpass-turbo.eu/s/1ogb)
 to choose an area you'd like to navigate round for 60 minutes.
 
 Things to consider:
@@ -36,8 +36,9 @@ Things to consider:
 - **You must finish at the same control as you started at.**
 - Look out for locations that have multiple postboxes. They are separate on 
 the map, if you look closely, and each one is worth `20` points.
-- These are the sites that will score, even if postboxes are added/removed 
-in future. Hopefully a rare occurrence!
+- You are viewing the latest data from OpenStreetMap. The MapRun course was
+created on 27/11/2022. Some postboxes may have been added/removed since, but
+this is hopefully a rare occurrence.
 
 #### Create your map
 
@@ -63,7 +64,7 @@ _# TODO: use [MapRunLink](https://maprunners.weebly.com/maprunlink.html)_
 1. Open your MapRun app (needs to be MapRun 6 or later).
 2. Open the 'hamburger menu' in the bottom-right.
 3. Select `CheckSites`.
-4. Enter the code: `292783`, then select `OK`.
+4. Enter the code: `014769`, then select `OK`.
 5. Select `Options and Settings`, then activate `Start Anywhere (SAW)`, then 
 come back out of the settings menu.
 
