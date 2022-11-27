@@ -79,14 +79,22 @@ file can be downloaded from OpenStreetMap quering services (such as
 [Overpass](https://overpass-turbo.eu/)), this isn't enough since the controls
 need to be numbered using a `<name>` element, and that isn't present.
 
-So I used the below script to extract what I needed from an Overpass query 
-output, and place it in a correctly formatted KML file, including `S1` and `F1`
-controls (positioned according to 
+So I used [the script below](#kml-creation-script) to extract what I needed
+from an Overpass query output, and place it in a correctly formatted KML file,
+including `S1` and `F1` controls (positioned according to 
 [the Start Anywhere notes](https://maprunners.weebly.com/start-anywhere.html)):
 
-<details>
-<summary>Expand for Python script</summary>
-<pre>
+Then it was a case of following the [MapRun course creation
+guidelines](https://maprunners.weebly.com/step-by-step-guide.html), uploading
+the just-created KML file. I **did not** provide a KMZ 
+background file, as this is optional. Without one, MapRun just uses 
+OpenStreetMap as a background. Specific settings:
+
+- [Queensland score format](https://maprunners.weebly.com/scoring-schemes.html)
+- 60 minute time limit
+- [Enable Start Anywhere](https://maprunners.weebly.com/start-anywhere.html)
+
+#### KML creation script
 
 ```python
 from copy import deepcopy
@@ -142,17 +150,3 @@ for new_name, position in [("F1", len(output_content)), ("S1", 0)]:
 ElementTree.ElementTree(output_kml).write(f"postboxes_in_{relation_id}.kml")
 
 ```
-</pre>
-
-</details>
-<br/>
-
-Then it was a case of following the [MapRun course creation
-guidelines](https://maprunners.weebly.com/step-by-step-guide.html), uploading
-the just-created KML file. I **did not** provide a KMZ 
-background file, as this is optional. Without one, MapRun just uses 
-OpenStreetMap as a background. Specific settings:
-
-- [Queensland score format](https://maprunners.weebly.com/scoring-schemes.html)
-- 60 minute time limit
-- [Enable Start Anywhere](https://maprunners.weebly.com/start-anywhere.html)
