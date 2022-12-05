@@ -52,9 +52,10 @@ means it is relatively easy to query OSM for this data, such as
 Postboxes have long been used as controls in street orienteering, which is why
 OpenOrienteeringMap includes an option for automatically creating controls 
 at every postbox location within the mapped area
-([read more](https://blog.oomap.co.uk/2015/01/oom-2-3-automatic-postbox-additions/)). This is ideal 
-because it means orienteers can use OpenOrienteeringMap to both produce a 
-map of their chosen sub-area, and also populate it with the controls.
+([read more](https://blog.oomap.co.uk/2015/01/oom-2-3-automatic-postbox-additions/)).
+This is ideal  because it means orienteers can use OpenOrienteeringMap to 
+both produce a map of their chosen sub-area, and also populate it with the
+controls.
 
 OpenOrienteeringMap's postbox data comes from
 [Matthew Somerville's postbox finder](https://postboxes.dracos.co.uk/), 
@@ -86,11 +87,12 @@ including `S1` and `F1` controls (positioned according to
 
 Then it was a case of following the [MapRun course creation
 guidelines](https://maprunners.weebly.com/step-by-step-guide.html), uploading
-the just-created KML file. I **did not** provide a KMZ 
-background file, as this is optional. Without one, MapRun just uses 
-OpenStreetMap as a background. Specific settings:
+the just-created KML file. A KMZ file was also needed, so Matt Atkins
+produced a 'token' one direct from OpenOrienteeringMap, which covered a blank 
+area of Dartmoor; MapRun uses OpenStreetMap as the background for the area 
+outside the KMZ map (i.e. most of Devon). Specific MapRun settings:
 
-- [Queensland score format](https://maprunners.weebly.com/scoring-schemes.html)
+- [Victoria score format](https://maprunners.weebly.com/scoring-schemes.html)
 - 60 minute time limit
 - [Enable Start Anywhere](https://maprunners.weebly.com/start-anywhere.html)
 

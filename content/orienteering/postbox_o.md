@@ -2,20 +2,16 @@
 
 _**Currently in the experimental phase**_
 
-### The format
+How many of Devon's postboxes can you visit in the time limit?
 
-A standard Queensland score:
-
-- 60 minute time limit.
-- `+20` points for each control you visit.
-- `-10` point penalty for each minute you are late (`60:01` counts as a minute 
-late).
-
-### The twist
-
-- **The area is way too big!** All the postboxes in Devon.
-- **You can start anywhere!** Start-choice adds a new layer above 
-control-choice and route-choice.
+- `+20` points for each unique postbox you visit.
+- `-10` point penalty for each minute you are late (1 second over counts as 
+  a new minute).
+- You choose which postbox to start at, **and you must finish at the same 
+  postbox**.
+- Two competitions:
+  - 🏃 On foot - 1 hour time limit
+  - 🚴 On bicycle - 3 hour time limit
 
 ### Ideas
 
@@ -24,23 +20,26 @@ control-choice and route-choice.
 - Spice up your routine exercise with a new start location each week.
 - Pick an interesting start location / map section and challenge your friends.
 
-### How it works
+### Sound good? Let's go!
 
-#### Choose your controls
-
-[Browse this map](https://overpass-turbo.eu/s/1ogb)
+1. [Browse this map](https://overpass-turbo.eu/s/1oC7)
 to choose an area you'd like to navigate round for 60 minutes.
+2. Print a map of your chosen area, including the postboxes, using
+[OpenOrienteeringMap](https://oomap.co.uk/gb/#/new/streeto/13/-3.5367/50.7212/)
+(a guide is below).
+3. Open the course on your phone, using
+[the MapRun app](https://maprunners.weebly.com/):
+   - `Select Event > UK > Devon > Devon Postboxes ON FOOT`
+   - `Select Event > UK > Devon > Devon Postboxes ON BICYCLE`
+   - Ignore the start location you see when you press `Go to Start` - you can 
+     start at any postbox you like!
 
-Things to consider:
+### Printing your map from OpenOrienteeringMap
 
-- **You must finish at the same control as you started at.**
-- Look out for locations that have multiple postboxes. They are separate on 
-the map, if you look closely, and each one is worth `20` points.
-- You are viewing the latest data from OpenStreetMap. The MapRun course was
-created on 27/11/2022. Some postboxes may have been added/removed since, but
-this is hopefully a rare occurrence.
+#### Things to remember
 
-#### Create your map
+**NOTE:** the course is made from all postboxes on OpenStreetMap on 27/11/2022. 
+There might be small differences with OpenOrienteeringMap.
 
 1. [Visit OpenOrienteeringMap UK](https://oomap.co.uk/gb/#/new/streeto/13/-3.5367/50.7212/).
 2. Select the centre point for your printed map by clicking a point on the 
@@ -52,32 +51,12 @@ displayed map.
    3. Clicking elsewhere on the map with deactivate this mode (point goes blue).
 5. Click the `Postboxes` button in the top menu. Your map should now be 
 populated with all the postbox sites within its boundaries.
-6. Check the controls against [the original map](https://overpass-turbo.eu/s/1ogb),
+6. Check the controls against [the original map](https://overpass-turbo.eu/s/1oC7),
 as there can be extras/duplicates in OpenOrienteeringMap. Duplicates can be 
 deleted in the 'control description' section on the right.
 7. OPTIONAL: Edit the details in the 'control description' section on the right
 (the auto-generated scores have no significance).
 8. Click `Save & get PDF map` in the top-right.
 9. Print the PDF.
-
-#### Set up MapRun
-
-_# TODO: use [MapRunLink](https://maprunners.weebly.com/maprunlink.html)_
-
-1. Open your MapRun app (needs to be MapRun 6 or later).
-2. Open the 'hamburger menu' in the bottom-right.
-3. Select `CheckSites`.
-4. Enter the code: `014769`, then select `OK`.
-5. Select `Options and Settings`, then activate `Start Anywhere (SAW)`, then 
-come back out of the settings menu.
-
-#### Start your run
-
-1. Select `Go to Start`.
-2. When you first open the map, the Start/Finish location you see is irrelevant.
-3. Proceed to your chosen first control.
-4. The time starts once the first control is punched.
-5. **Remember that you must also finish at your first control.**
-6. Enjoy!
 
 ### [How to create your own version](postbox_o_howto.md)
