@@ -15,3 +15,9 @@ to check out:
   * [SiTiming Guide](https://www.devonorienteering.co.uk/devon-oc-si-timing-guide)
   * [Event Planners' Si Guidance](https://www.devonorienteering.co.uk/devon-oc-planner-si-guidance)
   * [Racesignup Guide](https://www.devonorienteering.co.uk/racesignup-guide)
+
+Some detailed articles:
+
+### [Across-Devon postbox orienteering](postbox_o.md)
+
+### [Devon Orienteering's timing setup](devon_timing_setup.md)
