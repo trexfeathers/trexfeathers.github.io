@@ -140,7 +140,11 @@ and includes an effective setup for this.
 
 [GL.iNet Mango (GL-MT300N-V2)](https://www.gl-inet.com/products/gl-mt300n-v2/)
 
-For when a smartphone can't be used (e.g. signal, mobile data limits).
+For when a smartphone can't be used (e.g. signal, mobile data limits). 
+Attendees' personal smartphones and tablets both connect to the router and 
+visit the results webpage - details of both these steps are described in the
+Live Results appendix of
+[DEVON's SiTiming Guide](https://www.devonorienteering.co.uk/devon-oc-si-timing-guide).
 
 This router is fantastic. It runs on USB power, has
 [comprehensive documentation](https://docs.gl-inet.com/en/3/setup/mini_router/first_time_setup/),
