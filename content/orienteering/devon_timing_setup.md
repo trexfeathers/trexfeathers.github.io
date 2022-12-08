@@ -34,6 +34,11 @@ The Finish is not SiAC-enabled - it is a valuable to be able to check this
 station for punches in case of a non-downloaded competitor, and contactless 
 punches are not stored on stations.
 
+### Download
+
+Specific sections below. Details on using this setup at an event are in 
+[DEVON's SiTiming Guide](https://www.devonorienteering.co.uk/devon-oc-si-timing-guide).
+
 ### Download: Power
 
 Krisdonia 25000mAh and 50000mAh power banks.
@@ -115,9 +120,6 @@ No mains power prevents using an A4 printer or big screens.
 Basic results can be printed by the splits printers. We offer full results 
 pages via attendee's smartphones, with basic tablet computers for those that 
 aren't carrying phones.
-
-Details on using this setup at an event are in the Live Results appendix of
-[DEVON's SiTiming Guide](https://www.devonorienteering.co.uk/devon-oc-si-timing-guide).
 
 #### Tablet computers
 
