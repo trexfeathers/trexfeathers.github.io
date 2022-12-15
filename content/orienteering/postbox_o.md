@@ -1,7 +1,5 @@
 ## Across-Devon postbox orienteering
 
-_**Currently in the experimental phase**_
-
 How many of Devon's postboxes can you visit in the time limit?
 
 - `+20` points for each unique postbox you visit.
