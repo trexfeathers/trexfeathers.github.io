@@ -1,3 +1,5 @@
+## How does the below HTML render?
+
 <style type="text/css">
 #T_1c3f0 tbody tr:nth-child(even) {
   background-color: lightgray;
