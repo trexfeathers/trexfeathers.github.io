@@ -34,8 +34,6 @@ to choose an area you'd like to navigate round for 60 minutes.
 
 ### Printing your map from OpenOrienteeringMap
 
-#### Things to remember
-
 **NOTE:** the course is made from all postboxes on OpenStreetMap on 27/11/2022. 
 There might be small differences with OpenOrienteeringMap.
 
