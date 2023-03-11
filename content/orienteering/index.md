@@ -12,9 +12,9 @@ to check out:
   I run with
 * Some documents I've written for Devon Orienteering, giving you an insight 
   into the technical side of staging orienteering events:
-  * [SiTiming Guide](https://www.devonorienteering.co.uk/devon-oc-si-timing-guide)
-  * [Event Planners' Si Guidance](https://www.devonorienteering.co.uk/devon-oc-planner-si-guidance)
-  * [Racesignup Guide](https://www.devonorienteering.co.uk/racesignup-guide)
+  * [SiTiming Guide](https://1drv.ms/f/s!ApQ8TrxKAT_3k1TLBLAS4kK83QBr?e=ZFhGUw)
+  * [Event Planners' Si Guidance](https://www.devonorienteering.co.uk/info/devon-oc-event-planners-si-guidance)
+  * [Racesignup Guide](https://www.devonorienteering.co.uk/info/racesignup-guide)
 
 Some detailed articles:
 

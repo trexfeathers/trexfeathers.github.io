@@ -10,7 +10,7 @@ supportive, even during my ambitious misadventures trying new ideas!
 
 ### Controls
 
-[Detailed here](https://www.devonorienteering.co.uk/devon-oc-planner-si-guidance)
+[Detailed here](https://www.devonorienteering.co.uk/info/devon-oc-event-planners-si-guidance)
 
 Kites and stakes are bundled in 10's, with the expected total number clearly 
 visible on their bags/boxes - to encourage counting out and counting back in.
@@ -22,11 +22,6 @@ option of supporting SiAC for their event, without any intervention from Timing
 volunteers (more effort, and opportunity for mis-communication). This 
 benefit is considered worth the extra battery drain.
 
-[Clear instructions](https://www.devonorienteering.co.uk/organisers-resources)
-are provided on how to advertise the event regarding whether contactless
-punching is guaranteed. Can get confusing otherwise, as later starters get 
-contactless runs even at events where SiAC isn't explicitly supported.
-
 The Start is not SiAC-enabled - experience shows this causes confusion among 
 start volunteers.
 
@@ -37,7 +32,7 @@ punches are not stored on stations.
 ### Download
 
 Specific sections below. Details on using this setup at an event are in 
-[DEVON's SiTiming Guide](https://www.devonorienteering.co.uk/devon-oc-si-timing-guide).
+[DEVON's SiTiming Guide](https://1drv.ms/f/s!ApQ8TrxKAT_3k1TLBLAS4kK83QBr?e=ZFhGUw).
 
 ### Download: Power
 
@@ -146,7 +141,7 @@ For when a smartphone can't be used (e.g. signal, mobile data limits).
 Attendees' personal smartphones and tablets both connect to the router and 
 visit the results webpage - details of both these steps are described in the
 Live Results appendix of
-[DEVON's SiTiming Guide](https://www.devonorienteering.co.uk/devon-oc-si-timing-guide).
+[DEVON's SiTiming Guide](https://1drv.ms/f/s!ApQ8TrxKAT_3k1TLBLAS4kK83QBr?e=ZFhGUw).
 
 This router is fantastic. It runs on USB power, has
 [comprehensive documentation](https://docs.gl-inet.com/en/3/setup/mini_router/first_time_setup/),
