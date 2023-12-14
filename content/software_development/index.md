@@ -36,7 +36,7 @@ My first steps into automation and programming to supporting KPI reporting.
 
 ### Share-able ideas
 
-* [Cracking a video game through brute force](python/purple.md)
+* [Cracking a video game through brute force](https://github.com/trexfeathers/purple)
 * [Programmatically generating an SVG logo](https://github.com/SciTools/iris/blob/main/docs/src/_static/README.md)
 * [SQL stored procedure downstream processing](sql/sp_downstream.md)
 * Some Excel fun (since superceded by the wonderful Microsoft BI stack):
