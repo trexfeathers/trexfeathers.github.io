@@ -154,3 +154,29 @@ worlds! These merits have allowed Python to enter 'mainstream' use in
 scientific analysis, where unusually those writing scripts have limited resource
 to spare on becoming language experts. Here Python's ease of learning and
 debugging shine in contrast to the original mainstream language: R.
+
+#### Coordinating team software development
+
+In 2022 I became our team's 'primary lead' for 
+[Iris](https://github.com/SciTools/iris) - our main software library. I am
+responsible for:
+
+- Responsiveness - ensuring we catch bugs and help out user questions while
+  they are new - minimising impact and maximising value.
+  E.g. [our work adapting to the unexpected NetCDF changes that reduced thread safety](https://github.com/SciTools/iris/issues/5016).
+- Prioritisation - with more potential work than available time, what should
+  be worked on next?
+  [See the 'Dragon Taming' project](https://github.com/orgs/SciTools/projects/19?pane=info).
+- Philosophy - directing what we want Iris to be, and how we think it should
+  work, thus giving a consistent message to users and developers.
+  E.g. [how should Iris handle malformed files?](https://github.com/SciTools/iris/issues/5165)
+- Horizon scanning - what Iris' place will be within the evolving Scientific
+  Python ecosystem.
+  E.g. [awareness of how Iris and Xarray compare/relate](https://github.com/SciTools/iris/pull/5025).
+- Longevity - establish team cultures that help Iris 'self-manage' long term.
+  E.g. [regularly discussing outstanding work](https://github.com/orgs/SciTools/projects/13?pane=info).
+
+Since this is not a 'dictatorship' model, much of the above is about
+**enabling** the team to be mindful of these concerns and make decisions, 
+perhaps by highlighting something during a discussion, or convening a workshop.
+I am essentially Iris' 'advocate' within the team.
