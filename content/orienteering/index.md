@@ -13,6 +13,7 @@ to check out:
 * Some documents I've written for Devon Orienteering, giving you an insight 
   into the technical side of staging orienteering events:
   * [SiTiming Guide](https://1drv.ms/f/s!ApQ8TrxKAT_3k1TLBLAS4kK83QBr?e=ZFhGUw)
+    (OneDrive login NOT required)
   * [Event Planners' Si Guidance](https://www.devonorienteering.co.uk/info/devon-oc-event-planners-si-guidance)
   * [Racesignup Guide](https://www.devonorienteering.co.uk/info/racesignup-guide)
 
