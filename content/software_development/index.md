@@ -34,8 +34,12 @@ My first steps into automation and programming to supporting KPI reporting.
 
 ---
 
-### Share-able ideas
+### Share-able ideas I have developed
 
+* Using a GitHub project to monitor multiple open source projects together:
+  * [The project](https://github.com/orgs/SciTools/projects/13?pane=info)
+  * [The GraphQL to update the project](https://github.com/SciTools/.github/blob/main/peloton/update_project.py)
+  * [The GitHub Action to schedule the updates](https://github.com/SciTools/.github/blob/main/.github/workflows/peloton.yml)
 * [Cracking a video game through brute force](https://github.com/trexfeathers/purple)
 * [Programmatically generating an SVG logo](https://github.com/SciTools/iris/blob/main/docs/src/_static/README.md)
 * [SQL stored procedure downstream processing](sql/sp_downstream.md)
