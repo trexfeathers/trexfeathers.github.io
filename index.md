@@ -20,4 +20,6 @@ How I got started in life.
 
 ## [🌍 Sustainability](content/sustainability)
 
+## [🍕 Pizza](content/pizza.md)
+
 ## [🦖 Why `trexfeathers`?](content/trexfeathers)
