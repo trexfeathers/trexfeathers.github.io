@@ -36,7 +36,7 @@ we had to handle 4 of them on this trip - Auckland via San Francisco.
 - The landscape meant almost every road was interesting to drive and 
   interesting to look at.
 
-<a href="https://photos.google.com/share/AF1QipNCktuu8VXsDhDJO1EC-1pKYAqbi68UdeHi9SRfL0n41vb3uuuMV60WYA2xr4gTJw/photo/AF1QipOyD2uKsXHnnUOieqa1YbVUGvoNy1w7uUomTmyG?key=LXBPdlgtNFVndjlLWVYwRnhTMFVRZkVrSzhVZDF3"> <img src="https://photos.google.com/share/AF1QipNCktuu8VXsDhDJO1EC-1pKYAqbi68UdeHi9SRfL0n41vb3uuuMV60WYA2xr4gTJw/photo/AF1QipOyD2uKsXHnnUOieqa1YbVUGvoNy1w7uUomTmyG?key=LXBPdlgtNFVndjlLWVYwRnhTMFVRZkVrSzhVZDF3" /> </a>
+![Foo](https://lh3.googleusercontent.com/pw/AP1GczNRJg4hP0JItvWkdrPggfg2QBJEukjHFfc5qBbAhedzmW5eqKy1UYnriOo5fH6EKN5xWUHvw4VHvoNCxDB4p6IYaaBDzWJ03ddVJeFuLbR6G2jV5SDTE2tlKdV30oNWvcBsgTZfXEOSQ2KDDBg8kKWBOg)
 
 <a href="https://lh3.googleusercontent.com/pw/AP1GczOGgt2VPmAtRfPmJpWJbVKSH5woZ61Z3Fo4OPUCrDVSx8wE9I0U-0h3Lgiboewwy5yINVvbDcAxvzPTASjib5bZ7-HSdt2sVlOBBSJIXb3CI5hHCKsT=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczOGgt2VPmAtRfPmJpWJbVKSH5woZ61Z3Fo4OPUCrDVSx8wE9I0U-0h3Lgiboewwy5yINVvbDcAxvzPTASjib5bZ7-HSdt2sVlOBBSJIXb3CI5hHCKsT=w600-h315-p-k" /> </a>
 
