@@ -3,9 +3,22 @@
 Jemma and I shared a lot of new experiences on our trip to NZ, so I thought 
 it would be nice to share some here...
 
+1. [Photos](#photos)
+1. [In maps](#in-maps)
+1. [Flying long haul](#flying-long-haul)
+1. [Culture](#culture)
+1. [Geology](#geology)
+1. [Flora & fauna](#flora--fauna)
+1. [Lord of the Rings](#lord-of-the-rings)
+1. [Road trip](#road-trip)
+1. [Driving electric](#driving-electric)
+1. [Thank you!](#thank-you)
+
 ### Photos
 
 [**Click for the whole photo album**](https://photos.app.goo.gl/Q9ML8ArKbvTd8Xxe7)
+
+[**Photos we took from the car**](https://photos.app.goo.gl/E5t3ACCw1hoahLRw9)
 
 ### In maps
 
@@ -15,9 +28,9 @@ it would be nice to share some here...
 
 #### Photos from the car
 
-[Link](https://www.google.com/maps/d/u/0/edit?mid=1TUNphhLSWyJnZRIEx64qTaayoAd1tSw&usp=sharing)
-
 You can see how the landscape changes
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TUNphhLSWyJnZRIEx64qTaayoAd1tSw&ehbc=2E312F" width="640" height="480"></iframe>
 
 ### Flying long haul
 
@@ -48,9 +61,9 @@ learned some traditions and history, enjoyed Hāngī for dinner, then watched
 their famous cultural performance. We can't publish photos publicly but 
 message us if you want a link.
 
-But the pleasant surprise of the trip was the prominence of Māori culture 
+The pleasant surprise of the trip was the prominence of Māori culture 
 everywhere, something that isn't well known in the UK. We enjoyed seeing 
-dual signage in many places, watching
+dual signage, watching
 [TV from Māori+](https://www.maoriplus.co.nz/), and doing our best to 
 correctly pronounce the names of the places, plants and animals we saw.
 
@@ -87,14 +100,12 @@ heading to view them close up.
 
 [![Fox Glacier / Te Moeka o Tuawe](https://lh3.googleusercontent.com/pw/AP1GczOb4hPi_-43l7w1gAqKI_ZcHJN42w_rvZG6gBDwv_5RNnpJLM-MSVJLblQYhZPGN_-nErk4K4QPwdMLHY4wzqav1aRrgGzpGFFZz4gl5No4XAVy0K-kNPL4EnSgKxtRvBbl0zGFhK6L0P17ZnT6HrpiQw)](https://lh3.googleusercontent.com/pw/AP1GczOb4hPi_-43l7w1gAqKI_ZcHJN42w_rvZG6gBDwv_5RNnpJLM-MSVJLblQYhZPGN_-nErk4K4QPwdMLHY4wzqav1aRrgGzpGFFZz4gl5No4XAVy0K-kNPL4EnSgKxtRvBbl0zGFhK6L0P17ZnT6HrpiQw=w1799-h1012-s-no-gm?authuser=0)
 
-The activate geology is responsible for the insane views that are famous in NZ, 
-and the fact that you can travel between such different landscapes within a 
-day. It's as spectacular as everyone says it is.
-
-NZ is famous for being on a plate boundary, which has created the 
-volcanoes and mountain ranges depending on the region you are in. But we 
-hadn't realised how different a young landscape looks even in less dramatic 
-areas - it's much less smooth.
+NZ is famous for being on a plate boundary, and that active geology is 
+responsible for the insane views you see everywhere you go. It's as 
+spectacular as everyone says it is, and it's striking how quickly you can 
+move from one landscape to another when driving. Beyond the volcanoes and 
+mountain ranges, we hadn't realised how different a young landscape looks 
+even in less dramatic areas - it's much less smooth.
 
 [![Young landscape](https://lh3.googleusercontent.com/pw/AP1GczM60IXGLT_vdUybY447aWjrFwl3LjTIKd0NuKAw88ky3NkNpFpvMiOU6XdOalbKV5W6BWQ84zeE5ZMACExcWdJojIQgrnsremk8T2KGstQ0DROx2P9S3PygmpgvK690kxZWwzMg1sKr1RAJQRHQQXFlLA)](https://lh3.googleusercontent.com/pw/AP1GczM60IXGLT_vdUybY447aWjrFwl3LjTIKd0NuKAw88ky3NkNpFpvMiOU6XdOalbKV5W6BWQ84zeE5ZMACExcWdJojIQgrnsremk8T2KGstQ0DROx2P9S3PygmpgvK690kxZWwzMg1sKr1RAJQRHQQXFlLA=w2133-h1012-s-no-gm?authuser=0)
 
@@ -140,29 +151,6 @@ fossils are a rare treat anywhere in the world.
 
 [**Click for some wildlife photos**](https://photos.app.goo.gl/Q9ML8ArKbvTd8Xxe7)
 
-#### The bad
-
-Aotearoa New Zealand bears the classic scars of Victorians' love for 
-introducing plants an animals at a whim. Some coniferous woodlands were planted
-purely for aesthetics, which leaves you wondering who on earth could be 
-disappointed with the original aesthetics?! Sparrows were apparently introduced 
-to control crop pests, but became crop pests themselves; they're everywhere. 
-We regularly saw possum road kill.
-
-Native wildlife was often rarer than the invasive wildlife. We frequently 
-got excited: "What's that bird?!", only to realise: "Just another blackbird".
-
-Rough seas meant our Kaikōura whale watching trip was cancelled. So the 
-total cetacean sightings were a couple of dolphins (not Hector's!) while on the 
-ferry. At least we got to spend a day by the Pacific - a first for both of us.
-
-Martin got rather obsessed with getting a picture of a 
-[Kea](https://en.wikipedia.org/wiki/Kea), but never managed it. After our 
-last day in the mountains (at Aoraki) we discovered we had come within 100m 
-of a large flock. We did manage to briefly glimpse one when visiting the West 
-coast glaciers. They're rare due to egg predation from invasive species. 
-Of course if they weren't rare they wouldn't be exciting!
-
 #### A challenge
 
 Friends of ours sent us their copy of Last Chance to See - a tradition of 
@@ -182,6 +170,29 @@ Hopefully they can continue to recover and it won't be the last chance to
 see them!
 
 [**Click for the 'Last Chance to See' photos**](https://photos.app.goo.gl/365rhBkExdfvvJdK8)
+
+#### The bad
+
+Aotearoa New Zealand bears the classic scars of Victorians' love for 
+introducing plants and animals on a whim. Some coniferous woodlands were planted
+purely for aesthetics, which leaves you wondering who on earth could be 
+disappointed with the original aesthetics?! Sparrows were apparently introduced 
+to control crop pests, but became crop pests themselves; they're everywhere. 
+We regularly saw possum road kill.
+
+Native wildlife was often rarer than the invasive wildlife. We frequently 
+got excited: "What's that bird?!", only to realise: "Just another blackbird".
+
+Rough seas meant our Kaikōura whale watching trip was cancelled. So the 
+total cetacean sightings were a couple of dolphins (not Hector's!) while on the 
+ferry. At least we got to spend a day by the Pacific - a first for both of us.
+
+Martin got rather obsessed with getting a picture of a 
+[Kea](https://en.wikipedia.org/wiki/Kea), but never managed it. After our 
+last day in the mountains (at Aoraki) we discovered we had come within 100m 
+of a large flock. We did manage to briefly glimpse one when visiting the West 
+coast glaciers. They're rare due to egg predation from invasive species. 
+Of course if they weren't rare they wouldn't be exciting!
 
 ### Lord of the Rings
 
@@ -268,7 +279,11 @@ for the holiday. We got a Polestar 2 from Sixt.
   pleasant than an equivalent combustion car, and behind the wheel is where you
   spend most of your time with a car!
 
+[<img alt="Proof you can take an EV anywhere" height="180" src="ev_anywhere.png"/>](ev_anywhere.png)
+
 #### The not so good
+
+Probably not something to do as a novice!
 
 - 'Polestar or equivalent' was troubling phrasing when renting. Does 
   equivalence cover charging type? Range? What if there's a problem and 
@@ -292,3 +307,11 @@ for the holiday. We got a Polestar 2 from Sixt.
   can do a lot with 110kWh. EVs are getting too big.
 
 [<a href="https://www.carsized.com/en/cars/compare/renault-zoe-2012-5-door-hatchback-vs-polestar-2-2020-5-door-liftback/"> <img alt="EVs are getting too big" height="180" src="zoe_vs_polestar.jpg"/> </a>](zoe_vs_polestar.jpg)
+
+### Thank you!
+
+Thanks to all of you who: offered advice, made contributions, chatted to us 
+during the trip, or just generally got excited on our behalf! All of it 
+added to the specialness. We hope you've enjoyed reliving it with us here 😘
+
+[![Thank you](https://lh3.googleusercontent.com/pw/AP1GczPyzjqmD9nIiB5eYXjJbx5ub45Ujj56YZ1OdT1-3E5kTDizO-X1hTU1cLhoaIipjZx64WmG-bK1YCAgMBJsds4QqAMbvxmD3N-m93wtHMOuoufAtI2jT1WWrQwP9Mp-YLPOnPjmfRmzbEmpPGL0WE2b7Q)](https://lh3.googleusercontent.com/pw/AP1GczPyzjqmD9nIiB5eYXjJbx5ub45Ujj56YZ1OdT1-3E5kTDizO-X1hTU1cLhoaIipjZx64WmG-bK1YCAgMBJsds4QqAMbvxmD3N-m93wtHMOuoufAtI2jT1WWrQwP9Mp-YLPOnPjmfRmzbEmpPGL0WE2b7Q=w1472-h828-s-no-gm?authuser=0)
