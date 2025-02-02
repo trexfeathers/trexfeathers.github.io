@@ -22,4 +22,6 @@ How I got started in life.
 
 ## [🍕 Pizza](content/pizza.md)
 
+## [🇳🇿 Aotearoa NZ](content/aotearoa_nz)
+
 ## [🦖 Why `trexfeathers`?](content/trexfeathers)
