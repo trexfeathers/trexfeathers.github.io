@@ -16,9 +16,9 @@ to check out:
     (OneDrive login NOT required)
   * [Event Planners' Si Guidance](https://www.devonorienteering.co.uk/info/devon-oc-event-planners-si-guidance)
   * [Racesignup Guide](https://www.devonorienteering.co.uk/info/racesignup-guide)
+  * [Timing and SPORTident](https://www.devonorienteering.co.uk/info/sportident-equipment)
+  * [Devon Orienteering's Timing Setup](https://www.devonorienteering.co.uk/info/devon-orienteerings-timing-setup)
 
 Some detailed articles:
 
 ### [Across-Devon postbox orienteering](postbox_o.md)
-
-### [Devon Orienteering's timing setup](devon_timing_setup.md)
