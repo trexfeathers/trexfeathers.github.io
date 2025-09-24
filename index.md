@@ -24,4 +24,6 @@ How I got started in life.
 
 ## [🇳🇿 Aotearoa NZ](content/aotearoa_nz)
 
+## [🐉 DnD](content/dnd)
+
 ## [🦖 Why `trexfeathers`?](content/trexfeathers)
