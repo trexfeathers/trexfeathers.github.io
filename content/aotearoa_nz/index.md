@@ -30,13 +30,13 @@ it would be nice to share some here...
 
 You can see how the landscape changes
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TUNphhLSWyJnZRIEx64qTaayoAd1tSw&ehbc=2E312F" width="400" height="300"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1JVrLTo73kyIf_IgTf-vGsLnngWSjdqY&ehbc=2E312F" width="400" height="300"></iframe>
 
 #### GPS traces
 
 All the GPS traces from various exercise during the holiday
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lu7Wg8B5X9_a_ZGj_bP9qGTCOComVBw&ehbc=2E312F" width="400" height="300"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=17uyrKBm1OWraMy4dC_yLWVTt4JR04gg&ehbc=2E312F" width="400" height="300"></iframe>
 
 ### Flying long haul
 
